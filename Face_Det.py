@@ -1,4 +1,4 @@
-class Face_Detect:
+class Face_Detect:#Сделано для хакатона мифи. Класс получает кадры и словарь с лицами и их id
 
   
   def __init__(self, faces, frames):
